@@ -8,7 +8,7 @@
  * Set your deployed Google Apps Script Web App URL below.
  * Deploy your Code.gs as a web app and paste the URL here.
  */
-const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxKXMV2XPa5u9rikMCHvHkDiEHYT4Y5rhOm29L0vI1f1F9LSR-8fZi-ZJrl_NY7rgQR/exec";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyBOlHoxg6fAuw3PMYNwDSVIvELb0535B_w8KehYpMXwCGWgA41rpdof-R4VTKR0zKX/exec";
 
 /* ---------- State ---------- */
 let currentStudent = null;
